@@ -1,2 +1,2 @@
-# Automated-Composed
-自动作曲实现_step1
+# Audio-splicing
+音频pattern拼接
